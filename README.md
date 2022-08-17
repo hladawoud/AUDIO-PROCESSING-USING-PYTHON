@@ -5,4 +5,8 @@ Audio signals are signals that vibrate in the audible frequency range. When some
 
 Anaconda is an open-source distribution for python and R that we used. It is used for data science, machine learning, deep learning, etc. Anaconda offers the easiest way to perform Python/R data science and machine learning on a single machine. We also used Jupyter Notebook that allows editing and running notebook documents via a web browser. The Jupyter Notebook App can be executed on a local desktop requiring no internet access (as described in this document) or can be installed on a remote server and accessed through the internet.
 
+We decided on using Anaconda and Jupyter Notebook since they make it easier to use multiple Python Libraries we found hard to use and install in the Command Prompt.
+
+The main Library used in this Project to process audio is Librosa Library. https://librosa.org/doc/latest/index.html
+
 We used both Anaconda and Jupyter Notebook to also help us built a Graphical User Interface for this Project, all the documents and codes related to this project are attached.
