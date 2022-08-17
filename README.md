@@ -10,3 +10,5 @@ We decided on using Anaconda and Jupyter Notebook since they make it easier to u
 The main Library used in this Project to process audio is Librosa Library. https://librosa.org/doc/latest/index.html
 
 We used both Anaconda and Jupyter Notebook to also help us built a Graphical User Interface for this Project, all the documents and codes related to this project are attached.
+
+![10](https://user-images.githubusercontent.com/82093011/185145275-44b02c7d-12b6-42cb-a0e7-c063696ea3c4.PNG)
